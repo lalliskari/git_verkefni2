@@ -36,3 +36,7 @@ dæmi fyrir closed ended: Má ég nota klósettið?
 8. Hvað eru jaðartæki?
 
 svar: Jaðartæki eru tæki sem hægt er að bæta við tölvuna en eru ekki nauðsynleg fyrir basic operation svo sem, vefmyndavél, prentari, usb lykill o.fl
+
+9. Nefndu þrjú dæmi um inntakstæki.
+
+svar: webcam, microphone, lyklaborð
