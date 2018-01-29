@@ -17,3 +17,7 @@ svar: Fyrirbyggjandi viðhald hefur tilhneigingu til að fylgja fyrirhuguðum le
 4. Fyrir hvað stendur skammstöfunin ESD, hvað er það og hvaða leiðir höfum við til að verjast því þegar unnið er með tölvubúnað?
 
 svar: Electrostatic discharge, er leiðni milli tveggja rafhleðlsna af völdum snertingu eða rafmagns.  Að vera tengdur við jörð
+
+5. Hvað þarf að hafa í huga við val á spennugjöfum?
+
+svar: Wött, hljóðlátur, tengingar passi við þína tölvu
