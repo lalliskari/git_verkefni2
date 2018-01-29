@@ -25,3 +25,10 @@ svar: Wött, hljóðlátur, tengingar passi við þína tölvu
 6. Hver eru hin 6 skref við bilanagreiningu og viðgerðir?
 
 svar: 1.Sjá vandamálið. 2.Finna líklega orsök. 3.Prófa kenningu til að ákvarða orsök.  4.Búa til áætlun um aðgerðir til að leysa vandamálið og framkvæma lausnina. 5.Staðfesta fulla kerfisvirkni og ef við á, þá framkvæma fyrirbyggjandi aðgerðir.  6.Finna skrár, aðgerðir og niðurstöður.
+
+7. Hver er munurinn á opinn (e. open ended) og lokaðri (closed ended) spurningu?
+Nefnið dæmi um báðar gerðir af spurningum.
+
+svar: open ended þarf yfirleitt að svara með meira en einu orði.  Closed ended er yfirleitt hægt að svara með já eða nei.
+dæmi fyrir open ended: Hvernig pantar þú ferð til útlanda?
+dæmi fyrir closed ended: Má ég nota klósettið?
