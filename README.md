@@ -32,3 +32,7 @@ Nefnið dæmi um báðar gerðir af spurningum.
 svar: open ended þarf yfirleitt að svara með meira en einu orði.  Closed ended er yfirleitt hægt að svara með já eða nei.
 dæmi fyrir open ended: Hvernig pantar þú ferð til útlanda?
 dæmi fyrir closed ended: Má ég nota klósettið?
+
+8. Hvað eru jaðartæki?
+
+svar: Jaðartæki eru tæki sem hægt er að bæta við tölvuna en eru ekki nauðsynleg fyrir basic operation svo sem, vefmyndavél, prentari, usb lykill o.fl
