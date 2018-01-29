@@ -21,3 +21,7 @@ svar: Electrostatic discharge, er leiðni milli tveggja rafhleðlsna af völdum 
 5. Hvað þarf að hafa í huga við val á spennugjöfum?
 
 svar: Wött, hljóðlátur, tengingar passi við þína tölvu
+
+6. Hver eru hin 6 skref við bilanagreiningu og viðgerðir?
+
+svar: 1.Sjá vandamálið. 2.Finna líklega orsök. 3.Prófa kenningu til að ákvarða orsök.  4.Búa til áætlun um aðgerðir til að leysa vandamálið og framkvæma lausnina. 5.Staðfesta fulla kerfisvirkni og ef við á, þá framkvæma fyrirbyggjandi aðgerðir.  6.Finna skrár, aðgerðir og niðurstöður.
