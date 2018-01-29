@@ -13,3 +13,7 @@ svar: Read Only Memory, ROM er minni í tölvu sem er fyrirfram skráð, það i
 3. Hvað er fyrirbyggjandi viðhald?
 
 svar: Fyrirbyggjandi viðhald hefur tilhneigingu til að fylgja fyrirhuguðum leiðbeiningum frá einum tíma til annars til að koma í veg fyrir að búnaður og vélar bili.  Viðhald, þ.mt prófanir, mælingar, aðlögun, skipti á tækjum og hreinsun, framkvæmdar til að koma í veg fyrir að gallar komi fram. 
+
+4. Fyrir hvað stendur skammstöfunin ESD, hvað er það og hvaða leiðir höfum við til að verjast því þegar unnið er með tölvubúnað?
+
+svar: Electrostatic discharge, er leiðni milli tveggja rafhleðlsna af völdum snertingu eða rafmagns.  Að vera tengdur við jörð
