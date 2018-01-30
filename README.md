@@ -1,6 +1,6 @@
-TÆK2TÖ05BU vor 2018
+# H1 TÆK2TÖ05BU vor 2018
 
-Git verkefni 2
+## H2 Git verkefni 2
 
 1. Fyrir hvað stendur skammstöfunin RAM? Útskýrðu hvað RAM er.
 
