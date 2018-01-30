@@ -45,7 +45,9 @@
 
 ###### svar:
 ###### Allt í Tölvutek
-###### 1. Fractal Design focus mATX turnkassi = 14.990
+
+| Tables        | Are           | Cool  |
+1. Fractal Design focus mATX turnkassi = 14.990
 2. Seasonic focus + platinum 750w aflgjafi = 24.990
 3. Gigabite AM4 Gaming K3 móðurborð = 24.990
 4. AMD Ryzen 7 1700 octa core örgjörfi = 42.990
