@@ -2,7 +2,7 @@
 
 ## H2 Git verkefni 2
 
-1. Fyrir hvað stendur skammstöfunin RAM? Útskýrðu hvað RAM er.
+###### 1. Fyrir hvað stendur skammstöfunin RAM? Útskýrðu hvað RAM er.
 
 svar: Random Access Memory, RAM er innra mynni tölvunnar
 
