@@ -46,7 +46,9 @@
 ###### svar:
 ###### Allt í Tölvutek
 
-| Tables        | Are           | Cool  |
+| Tegund        | íhlutur           | Verð  |
+| ------------- |:-------------:| -----:|
+| Fractal Design | Turnakssi | 14.990 |
 1. Fractal Design focus mATX turnkassi = 14.990
 2. Seasonic focus + platinum 750w aflgjafi = 24.990
 3. Gigabite AM4 Gaming K3 móðurborð = 24.990
