@@ -52,15 +52,11 @@
 | Seasonic focus + platinum 750w | Aflgjafi | 24.990 |
 | Gigabite AM4 Gaming K3 | Móðurborð | 24.990 |
 | AMD Ryzen 7 1700 octa core | Örgjörfi | 42.990 |
-1. Fractal Design focus mATX turnkassi = 14.990
-2. Seasonic focus + platinum 750w aflgjafi = 24.990
-3. Gigabite AM4 Gaming K3 móðurborð = 24.990
-4. AMD Ryzen 7 1700 octa core örgjörfi = 42.990
-5. Gigabite Geforce GTX 1050 4GB skjákort = 28.990
-6. ADATA 16 GB DDR4 (2x8 GB) vinnsluminni = 31.990
-7. 525 GB SATA3 Crusial SSD 2,5 harðurdiskur = 29.990
-8. Trust GXT 788 leikjasett (mús,lyklaborð,heyrnatól) = 9.990
-9. BenQ EW2775ZH 27" LED FHD skjár = 34.990
-10. Life - on DVD+skrifari = 4.990
+| Gigabite Geforce GTX 1050 4GB | Skjákort | 28.990 |
+| ADATA 16 GB DDR4 (2x8 GB) | Vinnsluminni | 31.990 |
+| 525 GB SATA3 Crusial SSD 2,5 | Harðurdiskur | 29.990 |
+| Trust GXT 788 leikjasett | Mús, lyklaborð, heyrnatól | 9.990 |
+| BenQ EW2775ZH 27" LED FHD | Tölvuskjár | 34.990 |
+| Life - on | DVD+skrifari | 4.990 |
 
-Samtals = 248.900 kr
+### Samtals = 248.900 kr
